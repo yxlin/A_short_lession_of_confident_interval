@@ -39,7 +39,6 @@ p0 <- ggplot(df, aes(x, y)) +
     xlab("Quantiles") + ylab("Density") +
     scale_x_continuous(breaks = c(-4, -3, -1, 0, 1,  4)) +
     theme_classic(base_size = 24)
-p0
 
 # Output pdf image file
 cairo_pdf("normal2.pdf", width = 8, height = 6)
