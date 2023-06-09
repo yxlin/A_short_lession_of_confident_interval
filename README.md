@@ -1,1 +1,1 @@
-# A Note of Confident Interval
+# A Note of Confidence Interval for a Sample Mean
